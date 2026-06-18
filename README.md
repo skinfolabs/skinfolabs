@@ -42,6 +42,7 @@ My current areas of focus include SIEM investigation, firewalls, Active Director
 
 <div>
   <img src="https://img.shields.io/badge/SIEM%20Investigation-0F2A44?style=flat" />
+  <img src="https://img.shields.io/badge/SOAR-0F2A44?style=flat" />
   <img src="https://img.shields.io/badge/Incident%20Response-0F2A44?style=flat" />
   <img src="https://img.shields.io/badge/Log%20Analysis-0F2A44?style=flat" />
   <img src="https://img.shields.io/badge/Detection%20Engineering-0F2A44?style=flat" />
@@ -50,6 +51,7 @@ My current areas of focus include SIEM investigation, firewalls, Active Director
   <img src="https://img.shields.io/badge/Malware%20Analysis-4C1D95?style=flat" />
   <img src="https://img.shields.io/badge/Attack%20Simulation-5B21B6?style=flat" />
 </div>
+
 
 ## Tools and Technologies
 
@@ -63,9 +65,12 @@ My current areas of focus include SIEM investigation, firewalls, Active Director
   <img src="https://img.shields.io/badge/Cisco-005F73?style=flat&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat&logo=virustotal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20Sysinternals-1E3A5F?style=flat&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Virtualization-333333?style=flat&logo=virtualbox&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 </div>
+
 
 ## Current Focus
 
