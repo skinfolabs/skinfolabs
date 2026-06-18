@@ -18,13 +18,13 @@ My current areas of focus include SIEM investigation, firewalls, Active Director
 
 <div>
   <a href="https://www.linkedin.com/in/samuelkim-/overlay/Certifications/1152700726/treasury/?profileId=ACoAAEjc10EBK4bMPGr-gPNBs45ZunpKFA_FVmk">
-    <img src="https://img.shields.io/badge/Certificate-SOC%20Analyst-1E3A5F?style=for-the-badge&logo=credly&logoColor=white" />
+    <img src="https://img.shields.io/badge/SeeSecurity-SOC%20Analyst-1E3A5F?style=for-the-badge&logo=credly&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/samuelkim-/overlay/Certifications/1152626876/treasury/?profileId=ACoAAEjc10EBK4bMPGr-gPNBs45ZunpKFA_FVmk">
-    <img src="https://img.shields.io/badge/Certificate-System%20Administrator-1E3A5F?style=for-the-badge&logo=credly&logoColor=white" />
+    <img src="https://img.shields.io/badge/SeeSecurity-System%20Administrator-1E3A5F?style=for-the-badge&logo=credly&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/samuelkim-/overlay/Certifications/1152790546/treasury/?profileId=ACoAAEjc10EBK4bMPGr-gPNBs45ZunpKFA_FVmk">
-    <img src="https://img.shields.io/badge/Certificate-Penetration%20Testing-1E3A5F?style=for-the-badge&logo=credly&logoColor=white" />
+    <img src="https://img.shields.io/badge/SeeSecurity-Penetration%20Testing-1E3A5F?style=for-the-badge&logo=credly&logoColor=white" />
   </a>
 </div>
 
@@ -57,17 +57,17 @@ My current areas of focus include SIEM investigation, firewalls, Active Director
 
 <div>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20Server-1E3A5F?style=flat&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20Sysinternals-1E3A5F?style=flat&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active%20Directory-1E3A5F?style=flat&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows%20Server-1E3A5F?style=flat&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active%20Directory-1E3A5F?style=flat&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Virtualization-333333?style=flat&logo=virtualbox&logoColor=white" />
   <img src="https://img.shields.io/badge/FortiGate-8B1E1E?style=flat&logo=fortinet&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco-005F73?style=flat&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat&logo=virustotal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows%20Sysinternals-1E3A5F?style=flat&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Virtualization-333333?style=flat&logo=virtualbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 </div>
 
