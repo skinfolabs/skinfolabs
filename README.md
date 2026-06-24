@@ -42,7 +42,7 @@ My current areas of focus include SIEM investigation, firewalls, Active Director
 | Technical Area                                   | Associated Project                                                                                                                                                                                              |
 | ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Windows Server & Active Directory Administration | <a href="https://github.com/skinfolabs/windows-server-active-directory-lab"><img src="https://img.shields.io/badge/ACTIVE%20DIRECTORY%20LAB-1E3A5F?style=flat&logo=windows&logoColor=white" /></a>              |
-| Cisco Networking & Infrastructure Configuration  | <a href=""><img src="https://img.shields.io/badge/CISCO%20NETWORKING%20LAB-005F73?style=flat&logo=cisco&logoColor=white" /></a>                                                                                 |
+| Cisco Networking & Infrastructure Configuration  | <a href="https://github.com/skinfolabs/cisco-packet-tracer-enterprise-network-lab"><img src="https://img.shields.io/badge/CISCO%20NETWORKING%20LAB-005F73?style=flat&logo=cisco&logoColor=white" /></a>                                                                                 |
 | Linux Automation & Bash Scripting                | <a href="https://github.com/skinfolabs/linux-system-information-collector"><img src="https://img.shields.io/badge/LINUX%20SYSTEM%20INFORMATION%20COLLECTOR-333333?style=flat&logo=linux&logoColor=white" /></a> |
 
 
