@@ -28,15 +28,24 @@ My current areas of focus include SIEM investigation, firewalls, Active Director
   </a>
 </div>
 
-## Skills and Projects
 
-| Skills                                            | Associated Project                                                                                                                                                                                                                        |
-| ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| SOC Analysis & Incident Investigation             | <a href=""><img src="https://img.shields.io/badge/SOC%20ANALYSIS-0F2A44?style=flat" /></a>            |
-| Malware Analysis                                  | <a href=""><img src="https://img.shields.io/badge/MALWARE%20ANALYSIS-4C1D95?style=flat" /></a>        |
-| FortiGate Firewall Configuration                  | <a href="https://github.com/skinfolabs/FortiGate-Firewall-Configuration"><img src="https://img.shields.io/badge/FORTIGATE%20CONFIGURATION-8B1E1E?style=flat" /></a> |
-| Windows Servers & Active Directory Administration | <a href="https://github.com/skinfolabs/windows-server-active-directory-lab"><img src="https://img.shields.io/badge/WINDOWS%20SERVERS-1E3A5F?style=flat" /></a>         |
-| Cisco Network Configuration                       | <a href=""><img src="https://img.shields.io/badge/CCNA-005F73?style=flat" /></a>                      |
+## Cybersecurity Projects
+
+| Technical Area                          | Associated Project                                                                                                                                                                                 |
+| --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| SOC Operations & Incident Investigation | <a href=""><img src="https://img.shields.io/badge/SOC%20INVESTIGATION%20LAB-0F2A44?style=flat&logo=splunk&logoColor=white" /></a>                                                                  |
+| Static & Dynamic Malware Analysis       | <a href=""><img src="https://img.shields.io/badge/MALWARE%20ANALYSIS%20LAB-4C1D95?style=flat&logo=virustotal&logoColor=white" /></a>                                                               |
+| FortiGate Firewall & Network Security   | <a href="https://github.com/skinfolabs/FortiGate-Firewall-Configuration"><img src="https://img.shields.io/badge/FORTIGATE%20FIREWALL%20LAB-8B1E1E?style=flat&logo=fortinet&logoColor=white" /></a> |
+
+## Networking and Infrastructure Projects
+
+| Technical Area                                   | Associated Project                                                                                                                                                                                              |
+| ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Windows Server & Active Directory Administration | <a href="https://github.com/skinfolabs/windows-server-active-directory-lab"><img src="https://img.shields.io/badge/ACTIVE%20DIRECTORY%20LAB-1E3A5F?style=flat&logo=windows&logoColor=white" /></a>              |
+| Cisco Networking & Infrastructure Configuration  | <a href=""><img src="https://img.shields.io/badge/CISCO%20NETWORKING%20LAB-005F73?style=flat&logo=cisco&logoColor=white" /></a>                                                                                 |
+| Linux Automation & Bash Scripting                | <a href="https://github.com/skinfolabs/linux-system-information-collector"><img src="https://img.shields.io/badge/LINUX%20SYSTEM%20INFORMATION%20COLLECTOR-333333?style=flat&logo=linux&logoColor=white" /></a> |
+
+
 
 ## Technical Focus
 
