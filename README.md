@@ -33,7 +33,7 @@ My current areas of focus include SIEM investigation, firewalls, Active Director
 
 | Technical Area                          | Associated Project                                                                                                                                                                                 |
 | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| SOC Operations & Incident Investigation | <a href=""><img src="https://img.shields.io/badge/SOC%20INVESTIGATION%20LAB-0F2A44?style=flat&logo=splunk&logoColor=white" /></a>                                                                  |
+| SOC Operations & Incident Investigation | <a href="https://github.com/skinfolabs/quishing-soc-alert-investigation-lab"><img src="https://img.shields.io/badge/SOC%20INVESTIGATION%20LAB-0F2A44?style=flat&logo=splunk&logoColor=white" /></a>                                                                  |
 | Static & Dynamic Malware Analysis       | <a href="https://github.com/skinfolabs/unknown-malware-sample-analysis"><img src="https://img.shields.io/badge/MALWARE%20ANALYSIS%20LAB-4C1D95?style=flat&logo=virustotal&logoColor=white" /></a>                                                               |
 | FortiGate Firewall & Network Security   | <a href="https://github.com/skinfolabs/FortiGate-Firewall-Configuration"><img src="https://img.shields.io/badge/FORTIGATE%20FIREWALL%20LAB-8B1E1E?style=flat&logo=fortinet&logoColor=white" /></a> |
 
