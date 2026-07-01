@@ -32,6 +32,7 @@ My current areas of focus include SIEM investigation, SOAR workflows, cloud secu
 
 | Technical Area                          | Associated Project                                                                                                                                                                                  |
 | --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| SIEM Security Monitoring & Detection Engineering | <a href="https://github.com/skinfolabs/soc-wazuh-security-monitoring-lab"><img src="https://img.shields.io/badge/WAZUH%20MONITORING%20LAB-005EB8?style=flat&logo=opensearch&logoColor=white" /></a> |
 | SOC Operations & Incident Investigation | <a href="https://github.com/skinfolabs/soc-alert-investigation-lab"><img src="https://img.shields.io/badge/SOC%20INVESTIGATION%20LAB-0F2A44?style=flat&logo=splunk&logoColor=white" /></a> |
 | Static & Dynamic Malware Analysis       | <a href="https://github.com/skinfolabs/malware-analysis-unknown-loader"><img src="https://img.shields.io/badge/MALWARE%20ANALYSIS%20LAB-4C1D95?style=flat&logo=virustotal&logoColor=white" /></a>   |
 | FortiGate Firewall & Network Security   | <a href="https://github.com/skinfolabs/network-fortigate-firewall-configuration"><img src="https://img.shields.io/badge/FORTIGATE%20FIREWALL%20LAB-8B1E1E?style=flat&logo=fortinet&logoColor=white" /></a>  |
@@ -70,21 +71,18 @@ My current areas of focus include SIEM investigation, SOAR workflows, cloud secu
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Active%20Directory-1E3A5F?style=flat&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20AD-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/MFA-5B21B6?style=flat" />
   <img src="https://img.shields.io/badge/FortiGate-8B1E1E?style=flat&logo=fortinet&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco-005F73?style=flat&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/F5-DC143C?style=flat" />
   <img src="https://img.shields.io/badge/NAC%20%2F%20Forescout-2E7D32?style=flat" />
-  <img src="https://img.shields.io/badge/PRTG%20Network%20Monitor-009639?style=flat" />
   <img src="https://img.shields.io/badge/Lansweeper-F47B20?style=flat" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows%20Sysinternals-1E3A5F?style=flat&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat&logo=virustotal&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white" />
   <img src="https://img.shields.io/badge/Virtualization-333333?style=flat" />
 </div>
 
